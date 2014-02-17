@@ -2,7 +2,7 @@
 {subtitle: Don McLean}
 {c:check this}
 
-VERSE
+{c: VERSE}
 A [G]long, [D]long [Em7]time ago, 
 [Am]I can still re[C]member how that m[Em]usic used to make me [D]smile
 And [G]I know [D]if I [Em7]had my chance,
@@ -19,7 +19,7 @@ Drove my [G]Chevy to the [C]levy but the [G]levy was [D]dry
 And them [G]good old [C]boys were drinkin' [G]whiskey and [D]rye
 Singin' [Em]this will be the day that I [A7]die, [Em]this will be the day that I [D7]die
  
-VERSE
+{c: VERSE}
 [G]Did you write the [Am]book of love
 And do [C]you have faith in [Am]god above, [Em]if the bible [D]tells you so?
 [G]Do you [D]believe in [Em]rock and roll
@@ -36,7 +36,7 @@ Drove my [G]Chevy to the [C]levy but the [G]levy was [D]dry
 And them [G]good old [C]boys were drinkin' [G]whiskey and [D]rye
 Singin' [Em]this will be the day that I [A7]die, [Em]this will be the day that I [D7]die
 
-VERSE
+{c: VERSE}
 Now for t[G]en years we've been [Am]on our own,
 and mo[C]ss grows fat on a ro[Am]lling stone[Em] but that's not how it u[D]sed to be
 When the j[G]ester s[D]ang for the ki[Em]ng and queen 
@@ -53,7 +53,7 @@ Drove my [G]Chevy to the [C]levy but the [G]levy was [D]dry
 And them [G]good old [C]boys were drinkin' [G]whiskey and [D]rye
 Singin' [Em]this will be the day that I [A7]die, [Em]this will be the day that I [D7]die
 
-VERSE
+{c: VERSE}
 [G]Helter skelter in a [Am]summer swelter
 [C]the birds flew off with[Am] a fallout shelter, [Em]eight miles high and [D]fallin' fast
 It lan[G]ded [D]foul o[Em]n the grass
@@ -71,7 +71,7 @@ Drove my [G]Chevy to the [C]levy but the [G]levy was [D]dry
 And them [G]good old [C]boys were drinkin' [G]whiskey and [D]rye
 Singin' [Em]this will be the day that I [A7]die, [Em]this will be the day that I [D7]die
 
-VERSE
+{c: VERSE}
 And t[G]here we were all [Am]in one place,
 a ge[C]neration [Am]lost in space,[Em] with no time left to[D] start again
 So come on J[G]ack be ni[D]mble,[Em] Jack be quick, J[Am7]ack Flash sat on a c[C]andle 
@@ -87,7 +87,7 @@ Drove my [G]Chevy to the [C]levy but the [G]levy was [D]dry
 And them [G]good old [C]boys were drinkin' [G]whiskey and [D]rye
 Singin' [Em]this will be the day that I [A7]die, [Em]this will be the day that I [D7]die
 
-LAST VERSE
+{c: LAST VERSE}
 I [G]met a [D]girl who [Em]sang the blues
 And I [Am]asked her for some [C]happy news, but [Em]she just smiled and turned a[D]way
 I [G]went down [D]to the [Em]sacred store
