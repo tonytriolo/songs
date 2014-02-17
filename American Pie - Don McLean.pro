@@ -2,6 +2,7 @@
 {subtitle: Don McLean}
 {c:check this}
 
+VERSE
 A [G]long, [D]long [Em7]time ago, 
 [Am]I can still re[C]member how that m[Em]usic used to make me [D]smile
 And [G]I know [D]if I [Em7]had my chance,
