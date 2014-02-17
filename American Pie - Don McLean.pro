@@ -13,7 +13,7 @@ I [G]can't remem[D]ber if I [Em]cried when I [Am7]read about his [D]widowed brid
 [G]Something [D]touched me [Em]deep inside
 The [C]day the [D7]music [G]died [C] [G] [D]
 
-CHORUS
+{c: CHORUS}
 So [G]bye, [C]bye Miss [G]American [D]Pie
 Drove my [G]Chevy to the [C]levy but the [G]levy was [D]dry
 And them [G]good old [C]boys were drinkin' [G]whiskey and [D]rye
@@ -30,7 +30,7 @@ I was a [G]lonely [D]teenage [Em]broncin' buck with a [Am]pink carnation and a [
 But [G]I knew [D]I was [Em]out of luck the [C]day the [D7]music [G]die[C]d, [G]I started singin'[D]
 
 
-CHORUS
+{c: CHORUS}
 So [G]bye, [C]bye Miss [G]American [D]Pie
 Drove my [G]Chevy to the [C]levy but the [G]levy was [D]dry
 And them [G]good old [C]boys were drinkin' [G]whiskey and [D]rye
@@ -47,7 +47,7 @@ And while [G]Lenin rea[D]d a b[Em]ook on Marx, the [Am]quartet practiced [C]in t
 And [G]we sang d[D]irges i[Em]n the dark the [C]day the mu[D7]sic die[G]d, [C]we [G]were singin' [D]
 
 
-CHORUS
+{c: CHORUS}
 So [G]bye, [C]bye Miss [G]American [D]Pie
 Drove my [G]Chevy to the [C]levy but the [G]levy was [D]dry
 And them [G]good old [C]boys were drinkin' [G]whiskey and [D]rye
@@ -65,7 +65,7 @@ Tune
 'Cuz the p[G]layers [D]tried to t[Em]ake the field, the [Am]marching band re[C]fused to yield
 Do y[G]ou re[D]call what w[Em]as the feel the [C]day the m[D7]usic died[G], w[C]e s[G]tarted singin' [D]
 
-CHORUS
+{c: CHORUS}
 So [G]bye, [C]bye Miss [G]American [D]Pie
 Drove my [G]Chevy to the [C]levy but the [G]levy was [D]dry
 And them [G]good old [C]boys were drinkin' [G]whiskey and [D]rye
@@ -81,7 +81,7 @@ No [C]angel b[G]orn in H[A7]ell could b[C]reak that Satan's [D7]spell
 And as the [G]flames climbed h[D]igh int[Em]o the night to [Am]light the sacrif[C]icial rite
 I saw S[G]atan l[D]aughing with[Em] delight the d[C]ay the [D7]music d[G]ied[C], h[G]e was singin' [D]
 
-CHORUS
+{c: CHORUS}
 So [G]bye, [C]bye Miss [G]American [D]Pie
 Drove my [G]Chevy to the [C]levy but the [G]levy was [D]dry
 And them [G]good old [C]boys were drinkin' [G]whiskey and [D]rye
@@ -100,7 +100,7 @@ And the [G]three men [D]I ad[Em]mire most, the [Am7]Father, [C]Son, and the [D7]
 [G]They caught the [D]last train [Em]for the coast the [Am7]day the [D7]music [G]died,
 [D7]And they were singin'
 
-FINAL CHORUS
+{c: FINAL CHORUS}
 So [G]bye, [C]bye Miss [G]American [D]Pie
 Drove my [G]Chevy to the [C]levy but the [G]levy was [D]dry
 And them [G]good old [C]boys were drinkin' [G]whiskey and [D]rye
