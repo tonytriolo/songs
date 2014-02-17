@@ -1,7 +1,7 @@
 {title: Soldier}
 {subtitle: Gavin Degraw}
 
-Capo 1
+{c: Capo 1}
 
 {c:Intro}
 [F#m]La la [E]la la [A]la la[D], la[A] la l[E]a la la
