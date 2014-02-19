@@ -19,7 +19,7 @@ You know I'm still your lover boy I still feel the same way
 That's when she [D]told me the story bout free milk and a cow
 And said no h[A]uggy no kissy till I get a wedding vow
 My h[E]unny my baby don't put my love upon no shelf
-don't [A	]hand me no lines and keep your hands to your self
+don't [A]hand me no lines and keep your hands to your self
 
 {c:Longer Solo}
 [A] [D] [A] [E] [D] [A] [E]
@@ -31,3 +31,4 @@ My [E]honey now baby don't put my love upon no shelf
 don't [A]hand me no lines and keep your hands to your self
 
 Solo to end
+[A] [D] [A] [E] [A]
