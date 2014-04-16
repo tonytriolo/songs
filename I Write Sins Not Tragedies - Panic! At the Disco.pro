@@ -1,5 +1,5 @@
-I Write Sins Not Tragedies{title: }
-Panic! At the Disco{subtitle: }
+{title: I Write Sins Not Tragedies}
+{subtitle: Panic! At the Disco}
 
 Intro (it's meant to be drop-d but it really doesn't matter if you're just playing 
 the intro this way)

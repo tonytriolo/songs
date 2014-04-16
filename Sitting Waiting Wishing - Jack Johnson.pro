@@ -23,7 +23,7 @@ But [F]putting up with them
 [F7]Wasn't worth never [C]having you   [C7]
 [Am]Maybe you've been through [Am7]this before
 But it's [G]my first time so [G7]please ignore
-The [F]next few lines cause [F7]they're directed at you
+The [F]next few lines cause [F7]they're directed at you [C] [C7]
 
 {c: Verse}
 Must I [E]always be waiting, waiting on [Am*]you    [Am7]      [Am]     [Am7]
@@ -48,3 +48,12 @@ Must I [E]always be waiting, waiting on [Am]you    [Am7]      [Am]     [Am7]
 Must I [E]always be playing, playing your [Am]fool [Am7]      [Am]     [Am7]
 No, I can't I [E]always be waiting, waiting on [Am]you  [Am7]      [Am]     [Am]
 I can't [E]always be playing, playing your f[Am]ool  [Am7]      [Am]     [Am]
+
+{define: Am7 4 1 3 1 1 1 1}
+{define: Am 4 1 3 3 1 1 1}
+{define: G 0 3 5 5 4 3 3}
+{define: G7 0 3 5 3 4 3 3}
+{define: F 0 1 3 3 2 1 1}
+{define: F7 0 1 3 1 2 1 1}
+{define: C 0 3 3 5 5 5 3}
+{define: C7 4 1 1 3 1 3 1}

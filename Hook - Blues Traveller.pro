@@ -19,7 +19,7 @@ There is something amiss
 I am being insincere
 In fact I don't mean any of this
 Still my confession draws you near
-To confess the issue I refer
+To confuse the issue I refer
 To familiar heroes from long ago
 No matter how much Peter loved her
 What made the Pan refuse to grow
@@ -38,27 +38,27 @@ And then begin
 To see
 What you're doing to me this MTV is not for free
 It's so PC it's killing me
-So desperately I'll sing to thee
+So desperately I sing to thee
 Of love
-Sure but also rage and hate and pain and fear of self
+Sure but also of rage and hate and pain and fear of self
 And I can't keep these feelings on the shelf
-I've tried well no in fact I've lied
+I've tried well no in fact I lied
 Could be financial suicide but I've got too much pride inside
 To hide or slide
-I'll do as I decide and let it ride until I've died
+I'll do as I'll decide and let it ride until I've died
 And only then shall I abide this tide
-Oc catchy little tunes
-Of hip three minute ditties
+Of catchy little tunes
+Of hip three minute diddys
 I wanna bust all your balloons
-I wanna burn all of youre cities
-To the ground I've found
+I wanna burn all your cities to the ground
+I've found
 I will not mess around
 Unless I play then hey
-I will go on all day hear what I say
+I will go on all day. Hear what I say
 I have a prayer to pray
 That's really all this was
 And when I'm feeling stuck and need a buck
-I don't rely on luck because...
+I don't rely on luck because
 
 The hook brings you back
 I ain't tellin' you no lie
