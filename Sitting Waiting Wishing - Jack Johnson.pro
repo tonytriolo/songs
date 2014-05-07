@@ -26,8 +26,8 @@ But it's [G]my first time so [G7]please ignore
 The [F]next few lines cause [F7]they're directed at you [C] [C7]
 
 {c: Verse}
-Must I [E]always be waiting, waiting on [Am*]you    [Am7]      [Am]     [Am7]
-Must I [E]always be playing, playing your [Am*]fool [Am7]      [Am]     [Am7]
+Must I [E]always be waiting, waiting on [Am]you    [Am7]      [Am]     [Am7]
+Must I [E]always be playing, playing your [Am]fool [Am7]      [Am]     [Am7]
 
 {c: Verse}
 [C]I keep playing your [E]part but it's not my [F]scene
@@ -47,7 +47,8 @@ Cause [F]waitin' on love aint [F7]so easy to [C]do   [C7]
 Must I [E]always be waiting, waiting on [Am]you    [Am7]      [Am]     [Am7]
 Must I [E]always be playing, playing your [Am]fool [Am7]      [Am]     [Am7]
 No, I can't I [E]always be waiting, waiting on [Am]you  [Am7]      [Am]     [Am]
-I can't [E]always be playing, playing your f[Am]ool  [Am7]      [Am]     [Am]
+I can't [E]always be playing, playing your f[Am]ool  
+[E] fool [Am]
 
 {define: Am7 4 1 3 1 1 1 1}
 {define: Am 4 1 3 3 1 1 1}

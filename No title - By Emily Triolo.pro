@@ -1,5 +1,5 @@
-No title{title: }
-By Emily Triolo{subtitle: }
+{title: No Title}
+{subtitle: Emily Triolo}
 
 Verse 1:
 A                      D     E
