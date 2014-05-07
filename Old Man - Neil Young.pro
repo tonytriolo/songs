@@ -1,12 +1,16 @@
 {title: Old Man}
 {subtitle: Neil Young}
 
+{define: Dm9 0 x x 0 5 6 0}
+
+
+Hammer on the 3rd string 5th fret of the Dm9 chord from an open G in the intro
 
 {c:Intro}
-[Fmaj6/7/A] [D] [Dsus4] [D] [Dsus2] [D]
+[Dm9] [D] [Dsus4] [D] [Dsus2] [D]
 
-[Fmaj6/7/A]Old man look at my life, I'm a lot like [D]you were[Dsus4] [D] [Dsus2] [D]
-[Fmaj6/7/A]Old man look at my life, I'm a lot like [D]you were[Dsus4] [D] [Dsus2] [D]
+[Dm9]Old man look at my life, I'm a lot like [D]you were[Dsus4] [D] [Dsus2] [D]
+[Dm9]Old man look at my life, I'm a lot like [D]you were[Dsus4] [D] [Dsus2] [D]
 
 [D] [F] [C] [G]
 [D] [F] [C] [F]
@@ -48,10 +52,10 @@
 [D]I need someone to love me the [Am7]whole day [Em7]through[G]
 [D]Ah, one look in my eyes and you [Am7]can tell that's [Em7]true[G]
 
-[Fmaj6/7/A] [D] [Dsus4] [D] [Dsus2] [D]
+[Dm9] [D] [Dsus4] [D] [Dsus2] [D]
 
-[Fmaj6/7/A]Old man look at my life, I'm a lot like [D]you were[Dsus4] [D] [Dsus2] [D]
-[Fmaj6/7/A]Old man look at my life, I'm a lot like [D]you were[Dsus4] [D] [Dsus2] [D]
+[Dm9]Old man look at my life, I'm a lot like [D]you were[Dsus4] [D] [Dsus2] [D]
+[Dm9]Old man look at my life, I'm a lot like [D]you were[Dsus4] [D] [Dsus2] [D]
 
 [D] [F] [C] [G] [D]
 
