@@ -1,5 +1,5 @@
-Thnks Fr Th Mmrs{title: }
-Fall Out Boy{subtitle: }
+{title: Thnks Fr Th Mmrs}
+{subtitle: Fall Out Boy}
 
 Capo on 1
 Am          

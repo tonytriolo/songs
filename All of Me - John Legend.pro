@@ -28,7 +28,7 @@ Give your a[G]ll to me
 Ill give my [Em]all to you
 Youre my [Am]end and my beginning
 Even w[D]hen I lose Im winning
-Cause I give you a[Em]ll, a[C]ll of m[G]e
+Cause I give you a[Em]ll, a[C]ll of m[G]e [D]
 And you give me a[Em]ll, a[C]ll of y[G]ou, o[D]h
 {eoc}
 
@@ -55,7 +55,7 @@ Give your a[G]ll to me
 Ill give my [Em]all to you
 Youre my [Am]end and my beginning
 Even w[D]hen I lose Im winning
-Cause I give you a[Em]ll, a[C]ll of m[G]e
+Cause I give you a[Em]ll, a[C]ll of m[G]e [D]
 And you give me a[Em]ll, a[C]ll of y[G]ou, o[D]h
 {eoc}
  
@@ -73,12 +73,12 @@ Give your a[G]ll to me
 Ill give my [Em]all to you
 Youre my [Am]end and my beginning
 Even w[D]hen I lose Im winning
-Cause I give you a[Em]ll, a[C]ll of m[G]e
+Cause I give you a[Em]ll, a[C]ll of m[G]e [D]
 And you give me a[Em]ll, a[C]ll of y[G]ou, o[D]h
 {eoc}
 
 {soc}
-Cause I give you a[Em]ll, a[C]ll of m[G]e
+Cause I give you a[Em]ll, a[C]ll of m[G]e [D]
 And you give me a[Em]ll, a[C]ll of y[G]ou, o[D]h
 {eoc}
 
