@@ -1,6 +1,6 @@
 {title: Blue on Black}
 {subtitle: Kenny Wayne Sheppard}
-{c:need to check this}
+
 
 {c:Verse 1}
 [D]night [Cadd9]falls[C/G], [G]      and im al[D]one [Cadd9] [C/G] [G]
@@ -23,17 +23,10 @@ dont bring yo[A]u back [G]
 blue on[D] black [C] [G]
 
 
-D         Cadd9  G             D       Cadd9  G
-Blind,      now I see
-
-D         Cadd9  G             D       Cadd9  G
-Truth,   Lies and in between
-
-D         Cadd9  G             D       Cadd9  G
-Wrong,         can't be undone
-
-D         Cadd9  G             D       Cadd9  G
-slipped,      from the tip of your tongue
+[D]Blind,      [Cadd9]now[C/G] [G] I [D]see [Cadd9] [C/G] [G]
+[D]Truth,   [Cadd9]Lie[C/G]s and [G]in be[D]tween  [Cadd9] [C/G] [G]
+[D]Wrong,        [Cadd9]ca[C/G]n't [G]be un[D]done [Cadd9] [C/G] [G]
+[D]slipped,      [Cadd9]fro[C/G]m the [G]tip of your [D]tongue [Cadd9] [C/G] [G]
 
 
 
