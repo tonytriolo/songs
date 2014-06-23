@@ -10,7 +10,7 @@ Hammer on the 3rd string 5th fret of the Dm9 chord from an open G in the intro
 [Dm9] [D] [Dsus4] [D] [Dsus2] [D]
 
 [Dm9]Old man look at my life, I'm a lot like [D]you were[Dsus4] [D] [Dsus2] [D]
-[Dm9]Old man look at my life, I'm a lot like [D]you were[Dsus4] [D] [Dsus2] [D]
+[Dm9]Old man look at my life, I'm a lot like [D]you were
 
 [D] [F] [C] [G]
 [D] [F] [C] [F]
@@ -25,7 +25,7 @@ Hammer on the 3rd string 5th fret of the Dm9 chord from an open G in the intro
 [D]Like a coin that [C]won't get tossed
 [F]Rolling home to [G]you
 
-[D] [Am7] [Em7] [G]
+[D] [(][Dsus4] [D] [Dsus2] [D][)] [|] [Am7] [Em7] [^][G]
 
 {c: Refrain}
 [D]Old man take a look at my life, I'm a [Am7]lot like [Em7]you[G]
@@ -45,7 +45,7 @@ Hammer on the 3rd string 5th fret of the Dm9 chord from an open G in the intro
 [D]But I'm all a[C]lone at last
 [F]Rolling home to [G]you
 
-[D] [Am7] [Em7] [G]
+[D] [(][Dsus4] [D] [Dsus2] [D][)] [|] [Am7] [Em7] [^][G]
 
 {c: Refrain}
 [D]Old man take a look at my life, I'm a [Am7]lot like [Em7]you[G]
@@ -55,7 +55,7 @@ Hammer on the 3rd string 5th fret of the Dm9 chord from an open G in the intro
 [Dm9] [D] [Dsus4] [D] [Dsus2] [D]
 
 [Dm9]Old man look at my life, I'm a lot like [D]you were[Dsus4] [D] [Dsus2] [D]
-[Dm9]Old man look at my life, I'm a lot like [D]you were[Dsus4] [D] [Dsus2] [D]
+[Dm9]Old man look at my life, I'm a lot like [D]you were
 
 [D] [F] [C] [G] [D]
 
