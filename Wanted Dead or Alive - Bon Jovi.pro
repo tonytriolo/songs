@@ -1,6 +1,18 @@
 {title: Wanted Dead or Alive}
 {subtitle: Bon Jovi}
 
+{c: shorthand tab for the intro}
+{sot}
+e|----13---12---10--8--5--3--1---|
+B|-------------------------------|
+G|----14---12---10--9--5--4--2---|
+D|-------------------------------|
+A|-------------------------------|
+E|-------------------------------|
+{eot}
+
+[|] [D] [|] [D] [|] [D] [|] [D] [F] [D] [|]
+
 [D]It's all the same , [C]only the names wil[G]l change
 [C]And ev'ry [G]day , it seems we're wast[F]ing a[D]way
 [D]Another place , where the [C]faces are so [G]cold
@@ -16,7 +28,7 @@ CHORUS:
 [D]Sometimes I sleep , [C]sometimes is not for[G] days
 [C]and people I m[G]eet , always[F] go their separate [D]ways
 [D]Sometimes you tell the day , [C]by the bottle that you[G] drink
-[C]And times when youÂ´r [G]alone , and all you [F]do is [D]think
+[C]And times when you´r [G]alone , and all you [F]do is [D]think
 
 
 CHORUS:

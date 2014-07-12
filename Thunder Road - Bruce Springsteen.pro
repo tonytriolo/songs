@@ -73,4 +73,6 @@ I'm [A]pulling out of here to [D]win   [Dsus4] [D]
 
 [D] [A] [D] [G] [D] [A] [G] [A]
 
+End on D
+
 
