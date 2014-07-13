@@ -1,43 +1,50 @@
 {title: Free Fallin'}
 {subtitle: Tom Petty}
 
-She's a good girl, loves her mama
-Loves Jesus, and America too
-She's a good girl, crazy 'bout Elvis
-Loves horses, and her boyfriend too
+[CAPO]  [3]
+intro:
+[D], [G], [G], [D], [Asus4]
+[D], [G], [G], [D], [Asus4]
 
-/ G C CG D / :
 
-And it's a long day livin' in Reseda
-There's a freeway runnin' through the yard
-And I'm a bad boy, 'cause I don't even miss her
-I'm a bad boy for breakin' her heart
+She's a g[D]ood g[G]irl, l[G]oves h[D]er [Asus4]mama
+Loves J[D]es[G]us and Am[G]eri[D]ca [Asus4]too
+She's a g[D]ood g[G]irl, cr[G]azy 'b[D]out [Asus4]Elvis
+Loves h[D]ors[G]es and her b[G]oyfri[D]end [Asus4]too
 
-{Refrain}
-And I'm free, free fallin'
-Yeah, I'm free, free fallin'
+It's a l[D]ong d[G]ay, l[G]ivin' [D]in Re[Asus4]seda
+There's a f[D]reew[G]ay, r[G]unnin' thr[D]ough the [Asus4]yard
+And I'm a [D]bad b[G]oy, 'cause I d[G]on't e[D]ven [Asus4]miss her
+I'm a b[D]ad b[G]oy for br[G]eakin' h[D]er h[Asus4]eart
 
-All the vampires walkin' through the valley
-Move west down Ventura Boulevard
-And all the bad boys are standing in the shadows
-And the good girls are home with broken hearts
 
-{Refrain}
+And I'm f[D]ree,[G]   [G]   [D]   [Asus4]       free f[D]allin'[G]   [G]   [D]   [Asus4]
+Yeah I'm [D]free[G],  [G]   [D]   [Asus4]       free f[D]allin'[G]   [G]   [D]   [Asus4]
 
-Free fallin', I'm a-free fallin', I'm a
-Free fallin', I'm a-free fallin', I'm a
 
-I wanna glide down over Mulholland
-I wanna write her name in the sky
-I'm gonna free fall out into nothin'
-Gonna leave this world for a while
+All the v[D]ampi[G]res, wa[G]lkin' thr[D]ough the v[Asus4]alley
+Move w[D]est d[G]own, V[G]ent[D]ura [Asus4]Blvd.
+And all the b[D]ad b[G]oys, are st[G]anding [D]in the s[Asus4]hadows
+All the g[D]ood g[G]irls, are h[G]ome with br[D]oken h[Asus4]earts
 
-And I'm free
-<i>  Free fallin', I'm a-free fallin', I'm a
-</i>Free fallin'
-<i>  Free fallin', I'm a-free fallin', I'm a
-</i>Yeah, I'm free
-<i>  Free fallin', I'm a-free fallin', I'm a
-</i>Free fallin'
-<i>  Free fallin', I'm a-free fallin', I'm a</i>
-{Repeat to fade}
+
+
+And I'm f[D]ree,[G]   [G]   [D]   [Asus4]       free f[D]allin'[G]   [G]   [D]   [Asus4]
+Yeah I'm [D]free[G],  [G]   [D]   [Asus4]       free f[D]allin'[G]   [G]   [D]   [Asus4]
+
+
+I wanna g[D]lide d[G]own, [G]ov[D]er Mulh[Asus4]olland
+I wanna w[D]rite h[G]er, n[G]ame [D]in the [Asus4]sky
+I wanna f[D]ree f[G]all, [G]out [D]into [Asus4]nothin'
+Gonna le[D]ave t[G]his, w[G]orld [D]for a[Asus4]while
+
+
+
+And I'm f[D]ree,[G]   [G]   [D]   [Asus4]       free f[D]allin'[G]   [G]   [D]   [Asus4]
+Yeah I'm [D]free[G],  [G]   [D]   [Asus4]       free f[D]allin'[G]   [G]   [D]   [Asus4]
+
+
+
+And I'm f[D]ree,[G]   [G]   [D]   [Asus4]       free f[D]allin'[G]   [G]   [D]   [Asus4]
+Oh! [D]   [G]   [G]   [D]   [Asus4]     Free f[D]allin'[G]   [G]   [D]   [Asus4]
+Yeah I'm [D]free[G],  [G]   [D]   [Asus4]       oh!    free f[D]allin'[G]   [G]   [D]   [Asus4]
