@@ -1,4 +1,4 @@
-{title: No Title}
+{title: Gold}
 {subtitle: Emily Triolo}
 
 Verse 1:

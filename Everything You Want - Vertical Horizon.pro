@@ -80,6 +80,16 @@ With all of your time
 
 {c:Chorus}
 {soc}
+He's [A7sus4]everything you [G]want 
+He's [Em7]everything you [D]need 
+He's [A7sus4]everything [G]inside of you 
+That [Em7]you wish you could [D]be 
+
+He says [Am7]all the right [G]things 
+At [Em7]exactly the [D]right time 
+But [Am7]he means nothing [G]to you 
+And [Em7]you don't [D]know why 
+
 I am [A7sus4]everything you [G]want 
 I am [Em7]everything you [D]need 
 I am [A7sus4]everything [G]inside of you 
