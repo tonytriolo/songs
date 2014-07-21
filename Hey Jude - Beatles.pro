@@ -1,5 +1,5 @@
 {title: Hey Jude}
-{subtitle: Beatles}
+{subtitle: The Beatles}
 
 {c: Capo 1}
 

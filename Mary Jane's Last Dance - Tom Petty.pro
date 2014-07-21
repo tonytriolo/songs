@@ -43,6 +43,9 @@ One more time to kill the pain [A]
 [Em7]I feel summer creepin' in and I'm
 Tired of this town again [A] [G]
 
+[Am] [G] [D] [Am]
+{c:repeat 2x}
+
 [Am]There's pigeons down in [G]Market Square
 [D]She's standin' in her [Am]underwear
 [Am]Lookin' down from a [G]hotel room

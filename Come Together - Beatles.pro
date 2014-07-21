@@ -1,5 +1,5 @@
 {title: Come Together}
-{subtitle: Beatles}
+{subtitle: The Beatles}
 
 [Dm7]Here come old flat top, He come grooving up slowly,
 [Dm7]He got Joo Joo eyeball, He one holy roller 

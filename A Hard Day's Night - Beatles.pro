@@ -1,5 +1,5 @@
 {title: A Hard Day's Night}
-{subtitle: Beatles}
+{subtitle: The Beatles}
 
 {define:G7sus4 0 3 5 3 5 3 3}
 {define:Fadd9 0 x x 3 2 1 3}
@@ -27,8 +27,10 @@ You know I'll [G]feel [C]o..[G]kay.
 
 {c: Chorus}
 {soc}
-When I'm [Bm]home, [Em]everything seems to be [Bm]right.
-When I'm [G]home, [Em]feeling you holding me [C7]tight..[D]tight, [D7]yeah.
+When I'm [Bm]home, 
+[Em]everything seems to be [Bm]right.
+When I'm [G]home, 
+[Em]feeling you holding me [C7]tight..[D]tight, [D7]yeah.
 {eoc}
 
 {c: Verse 3}
@@ -49,8 +51,10 @@ You know I'll [G]feel [C]o..[G]kay.
 
 {c:Chorus}
 {soc}
-When I'm [Bm]home, [Em]everything seems to be [Bm]right.
-When I'm [G]home, [Em]feeling you holding me [Am]tight..[D]tight, [D7]yeah.
+When I'm [Bm]home, 
+[Em]everything seems to be [Bm]right.
+When I'm [G]home, 
+[Em]feeling you holding me [C7]tight..[D]tight, [D7]yeah.
 {eoc}
 
 {c:Verse 4}
@@ -63,5 +67,5 @@ I find the [D7]things that you do.
 Will make me [G]feel [C]al[G]right.
 
 {c: Outro}
-[C7]You know, I [G]feel [C]al[G]right
-[C7]You know, I [G]feel [C]alr[Fadd9]ight [F*]
+You know, I [G]feel [C]al[G]right
+You know, I [G]feel [C]alr[Fadd9]ight [F*]
