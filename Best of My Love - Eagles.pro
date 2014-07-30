@@ -1,5 +1,5 @@
 {title: Best of My Love}
-{subtitle: Eagles }
+{subtitle: The Eagles }
 
 {define: Cmaj7add2 0 x 3 0 0 0 0}
 {define: Fmaj7#11 0 x x 3 0 0 0 }

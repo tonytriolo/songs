@@ -1,17 +1,17 @@
 {title: House of the Rising Sun}
-{subtitle: Bob Dylan / The Animals}
+{subtitle: The Animals}
 
 Intro:  
-[Am] [C] [D] [F] [Am] [E] [Am]
+[Am] [C] [D] [F] [Am] [E] [Am]  [E]
 
 There [Am]is a [C]house down in [D]New Or[F]leans
 They [Am]call the [C]Risin' [E]Sun
 And it's [Am]been the [C]ruin of [D]many poor [F]boy
-And [Am]me, oh [E]God, I'm a-[Am]one [C] [D] [F] [Am] [E] [Am]
+And [Am]me, oh [E]God, I'm a-[Am]one [C] [D] [F] [Am] [E] [Am] [E]
 
 My mother was a tailor
 She sewed these new blue jeans
-My sweetheart was a gambler, Lord
+My father was a gamblin man
 Down in New Orleans
 
 Now the only thing a gambler needs
