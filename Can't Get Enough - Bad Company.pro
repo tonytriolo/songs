@@ -13,11 +13,11 @@ Now tell me I got something for you
 
 Refrain:
 [E]Come on, come on, come on and do it
-[G]  Come on and u[D]h, do what you do  [C#]
+[G]  Come on and u[D]h, do what you do  [C]
 Chorus:
 [A]I can't get [D]enough of your love
 I can't get enough of your love
-I can't get enough of your love [A] [G] [A]
+I can't get enough of your love [E] [Esus4] [E]
 
 {c:Intro}
 [A]   [G]   [D]    [G] [D] (2x)
@@ -30,13 +30,28 @@ Gonna hang me up like ya do
 
 Refrain:
 [E]Come on, come on, come on and do it
-[G]  Come on and u[D]h, do what you do  [C#]
+[G]  Come on and u[D]h, do what you do  [C]
 Chorus:
 [A]I can't get [D]enough of your love
 I can't get enough of your love
-I can't get enough of your love [A] [G] [A]
+I can't get enough of your love [E] [Esus4] [E]
 
-Solo over verse, refrain, chorus chords
+Solo
+[A] [G] [D]
+[A] [G] [D]
+[A] [G] [D]
+[A] [G] [D]
+[E]
+[G] [D] [C]
+[A] [D]
+[A] [D]
+[A] [D]  
+[E] [Esus4] [E]
+
+Chorus:
+[A]I can't get [D]enough of your love
+I can't get enough of your love
+I can't get enough of your love
 
 {c:Outro}
 [A]   [G]   [D]    [G] [D] (2x)

@@ -1,7 +1,7 @@
 {title: The Scientist}
 {subtitle: Coldplay}
 
-Capo 3
+{c:Capo 3}
 {define: Bm7 0 x 2 0 2 0 2}
 {define: Gadd9 0 3 2 0 0 3 5}
 {define: Dmaj9 0 x x 0 2 2 0}

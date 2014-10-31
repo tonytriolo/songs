@@ -14,7 +14,7 @@ Wit[G]h our hearts a t[D7]humpin'
 An[C]d you [D7]
 My brown eyed[G] girl [Em]
 [C]And you, [D7]my
-Brown eyed [G]girl
+Brown eyed [G]girl  [D]
 
 {c:Verse}
 [G]Whatever [C]happened
