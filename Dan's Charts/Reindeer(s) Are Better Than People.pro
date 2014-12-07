@@ -1,6 +1,8 @@
 {title: Reindeer(s) Are Better Than People}
 {subtitle: Disney "Frozen"}
 
+(Originally in D -- easier to play on the uke in C)
+
 Intro:
 [F] [G7]
 [C]Reindeers are [G]better than [C]people  [C7]
@@ -28,3 +30,6 @@ You [D]got me, let's [G]call it a [Am]night
 Good [D]night
 
 [C]Don't let the [G7]frostbite [C]bite
+
+
+{tag: Christmas}
