@@ -2,29 +2,29 @@
 {subtitle: Disney "Frozen"}
 
 Intro:
-[G] [A7]
-[D]Reindeers are [A]better than [D]people  [D7]
+[F] [G7]
+[C]Reindeers are [G]better than [C]people  [C7]
 
-[G]Sven, don't you [A]think that's [D]true?  [D7]
+[F]Sven, don't you [G]think that's [C]true?  [C7]
 
-Yeah, [Em]people will [A]beat you
+Yeah, [Dm]people will [G]beat you
 
-and [D]curse you and [B7]cheat you
+and [C]curse you and [A7]cheat you
 
-Every [E]one of them's [A]bad except [D]you
+Every [D]one of them's [G]bad except [C]you
 
-Oh, [A7]thanks buddy
+Oh, [G7]thanks buddy
 
-But [D]people smell [A]better than [D]reindeers  [D7]
+But [C]people smell [G]better than [C]reindeers  [C7]
 
-[G]Sven, don't you [A]think that I'm [D]right?  [D7]
+[F]Sven, don't you [G]think that I'm [C]right?  [C7]
 
-That's [Em]once again [A]true,
+That's [Dm]once again [G]true,
 
-for [D]all except [B7]you
+for [C]all except [A7]you
 
-You [E]got me, let's [A]call it a [Bm]night
+You [D]got me, let's [G]call it a [Am]night
 
-Good [E]night
+Good [D]night
 
-[D]Don't let the [A7]frostbite [D]bite
+[C]Don't let the [G7]frostbite [C]bite
