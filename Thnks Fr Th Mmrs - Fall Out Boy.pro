@@ -2,79 +2,79 @@
 {subtitle: Fall Out Boy}
 
 Capo on 1
-Am          
+[Am]          
 Im gonna make you bend and break
-E
+[E]
 Say your prayers but let the good times roll, 
-Dm  Am               E7
+[Dm]  [Am]               [E7]
 In case god doesn't show (let the good times roll)
-Am
+[Am]
 And I want these words to make things right 
-E
+[E]
 But its the wrongs that make the words come to life
-Dm           Am
+[Dm]           [Am]
 Who does he think he is,
-E
+[E]
 If thats the worst you got, 
-E
+[E]
 Then you better put your fingers back to the keys.
 
 Chorus:
-Am              F
+[Am]              [F]
 One night and one more time,
-Dm           
+[Dm]           
 Thanks for the memories,
-Dm                           Am
+[Dm]                           [Am]
 Even though they weren't so great
-    F                   G
+    [F]                   [G]
 He tastes like you only sweeter!
-Am             F
+[Am]             [F]
 One night and one more time 
-Dm                       Dm
+[Dm]                       [Dm]
 Thanks for the memories, thanks for the memories
-Am      F                      G
+[Am]      [F]                      [G]
 He, he tastes like you only sweeter! ohhhh 
 
 Verse:
-Am
+[Am]
 Been looking forward to the future
-E
+[E]
 But my eyesight is going bad
-Dm     Am        E7
+[Dm]     [Am]        [E7]
 And this crystal ball
-Am
+[Am]
 It's always cloudy except for
-E
+[E]
 When you look into the past ( look into the past )
-Dm         E7
+[Dm]         [E7]
 One night stand ( one night stand off )
 
 Chorus:
-Am               F
+[Am]               [F]
 One night and one more time
-Dm     
+[Dm]     
 Thanks for the memories  
-Dm
+[Dm]
 Even though they weren't so great
-     F                    G
+     [F]                    [G]
 He tastes like you only sweeter!
-Am                   F
+[Am]                   [F]
 One night, yeah, and one more time
-Dm                       Dm
+[Dm]                       [Dm]
 Thanks for the memories, thanks for the memories
-Am      F                     G
+[Am]      [F]                     [G]
 He, he tastes like you only sweeter!
 
 Bridge:
-              Am      F           C                G
+              [Am]      [F]           [C]                [G]
 They say! I only think in the form of crunching numbers 
-Am         F       C                    G
+[Am]         [F]       [C]                    [G]
   In hotel rooms, collecting page six lovers
-Am                F
+[Am]                [F]
 Get me out of my mind,
-     C                       G
+     [C]                       [G]
 And get you out of those clothes!
-Am      F           C                        G
+[Am]      [F]           [C]                        [G]
 I'm a liner away from getting you into the mood, whooaaahh  
 
 Chorus(No Chords):
@@ -87,17 +87,17 @@ Thanks for the memories, thanks for the memories
 He, he tastes like you only sweeter!
 
 Chorus:
-Am              F
+[Am]              [F]
 One night and one more time
-Dm    
+[Dm]    
 Thanks for the memories  
-Dm
+[Dm]
 Even though they weren't so great
-     F                    G
+     [F]                    [G]
 He tastes like you only sweeter!
-Am                     F
+[Am]                     [F]
 One night, yeah, and one more time
-Dm                       Dm
+[Dm]                       [Dm]
 Thanks for the memories, thanks for the memories
-Am      F                     G
+[Am]      [F]                     [G]
 He, he tastes like you only sweeter!

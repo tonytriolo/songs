@@ -1,5 +1,5 @@
 {title: Back in the USSR}
-{subtitle: Beatles}
+{subtitle: The Beatles}
 
  [E] [E7]
 

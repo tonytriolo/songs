@@ -1,5 +1,5 @@
 {title: Here Comes the Sun}
-{subtitle: the Beatles}
+{subtitle: The Beatles}
 {key: D}
 {define: Bm(add11) 0 x x x 4 3 0}
 {define: G6 0 x x x 0 3 0}

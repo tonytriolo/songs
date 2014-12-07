@@ -52,7 +52,14 @@ and it’ll [Am]be alright [G] [Fmaj7]
 
 [Cmaj7]
 
-Note: During the song intro and the verses, the Fmaj7 and G6 chords are the same form; that is to say, the G6 is played like the Fmaj7, only two frets higher, on the third fret. The high E string is allowed to ring open, hence the 6th of the G chord is the open E. Additionally, on the first strum of each chord the first finger and middle finger of the left hand is lifted, the strings (E, B and G) are allowed to ring open, then on the second strum the first and middle fingers are again placed down to form the full chord.
+Note: During the song intro and the verses, the Fmaj7 and G6 chords 
+are the same form; that is to say, the G6 is played like the Fmaj7, 
+only two frets higher, on the third fret. The high E string is allowed 
+to ring open, hence the 6th of the G chord is the open E. Additionally, 
+on the first strum of each chord the first finger and middle finger of 
+the left hand is lifted, the strings (E, B and G) are allowed to ring 
+open, then on the second strum the first and middle fingers are again
+placed down to form the full chord.
 
 
 {define: Fmaj7 0 x x 3 2 1 0}

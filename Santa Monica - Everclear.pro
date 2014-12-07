@@ -21,7 +21,7 @@ I just want to see some palm trees
 Go and try to shake away this disease
 
 {c: Chorus}
-[C5] [D5] [G5] | [G5] [E5] [D5] | [D5] [C5] [G5]
+[C5] [D5] [G5] [|] [G5] [E5] [D5] [|] [D5] [C5] [G5]
 We can live beside the ocean
 Leave the fire behind
 Swim out past the breakers

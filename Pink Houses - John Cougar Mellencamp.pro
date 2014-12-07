@@ -44,7 +44,8 @@ Little pink houses for [C]you and me
 {eoc}
 
 {c:interlude}
-[Csus4] [C] [G]
+[||:] [G] [|] [C] [G] [:||]
+[F] [C]  [G]
 {c:repeat 4x}
 
 {c:Verse}

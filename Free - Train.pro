@@ -45,7 +45,9 @@ You left your silhouette on my pillow - hey
 Well I'm right inside the night, I'm waitin for the light
 Seems like I'm in the, seems like I'm always in the middle
 
-They call me free
-They call me free
-Free
+They call me [D]free  [C] [G]
+They call me [D]free  [C] [G]
+[D]Free  [C] [G]
 - But I call me a
+
+[C][G][D]
