@@ -1,41 +1,33 @@
 {title: Take the Money and Run}
 {subtitle: Steve Miller Band}
 
-{t:I play this one acoustic, and it's dead on.}
-{st:The verses sound really good as open chords}
 fast ish strumming   get the rhythm yourself
-[G]This heres a s[F]tory about billy joe and bob[C]bie sue
-[G]Two young lovers[F] with nothin bett[C]er to do
-[G]Than sit around the house, g[F]et high, and watch[C] the tube
-[G] E5/F5                  [F]
-And here is what happened when they decided to cut loose
-[G]They headed down to, ooh, ol[F]d el paso    [C]
-[G]Thats where they ran int[F]o a great big has[C]sle
-[G]Billy joe sh[F]ot a man while robbing h[C]is castle
-[G]Bobbie sue took [F]the money and run              [C]                 [E5]   [F5]   [F#5]    [G]
 
-Chorus   Sounds good as powerchords, although you can play open chords over the lyrics
-it'll still sound pretty good.
-[G]Go on t[F]ake the money and run        [C]                  [E5]   [F5]   [F#5]    [G]
-[G]Go on tak[F]e the money and run           [C]                         [E5]   [F5]   [F#5]    [G]
-[G] E5 F5   [F]
-Go on take the money and run
-[G]Go on tak[F]e the money and run           [C]
+[G]This heres a s[F]tory about billy [C]joe and bobbie sue
+[G]Two young lovers[F] with [C]nothin better to do
+[G]Than sit around the [F]house, get [C]high, and watch the tube
+And [G]here is what [F]happened when they [C]decided to cut loose [A#] [F]
+[G]They headed [F]down to, [C]ooh, old el paso    
+[G]Thats where they [F]ran into a [C]great big hassle
+[G]Billy [F]joe shot a man while [C]robbing his castle
+[G]Bobbie [F]sue took the money and [C]run    [A#] [F]
 
-~~~~As you can tell, it's pretty much the same chord progression, so I've just thrown in
-couple of the transition type thingers
-
+Chorus   
+[G]Go [F]on take the money and [C]run
+[G]Go [F]on take the money and [C]run  [A#] [F]    
+[G]Go [F]on take the money and [C]run
+[G]Go [F]on take the money and [C]run  [A#] [F]
 
 Billy mack is a detective down in texas
 You know he knows just exactly what the facts is
 He aint gonna let those two escape justice
-He makes his livin off of the peoples taxes     C5 E5  E5 F5
+He makes his livin off of the peoples taxes    
 Bobbie sue, whoa, whoa, she slipped away
 Billy joe caught up to her the very next day
 They got the money, hey
-You know they got away                  E5 F5 F#5 G
-They headed down south and theyre still running today   C5 E5  E5 F5
-                                                               (Singin)
+You know they got away   
+They headed down south and theyre still running today   
+
 Go on take the money and run    (Alternate between the two riffs)
 Go on take the money and run
 Go on take the money and run
