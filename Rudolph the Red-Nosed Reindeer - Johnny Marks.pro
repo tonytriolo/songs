@@ -53,3 +53,4 @@ As they shouted out with [G]glee:
 You'll go down in [C]history"
 
 {define: Fdim7 0 x x 3 4 3 4}
+{tag: Christmas}
