@@ -15,9 +15,9 @@ He's [G]gonna find out who's [C]naughty and nice
 [G]Santa [Em]Claus is [A]comi[D7]ng to [G]town   [G7]
 
 {c:Bridge:}
-He [G7]sees you when you're [C]sleeping
-He [G7]knows if you're a[C]wake
-He [A7]knows if you've been [D]bad or good
+He [C]sees you when you're sleeping
+He [C]knows if you're awake
+He [A7]knows if you've been bad or good
 So be [A7]good for goodness [D]sake
 
 {c:Repeat verse 1}

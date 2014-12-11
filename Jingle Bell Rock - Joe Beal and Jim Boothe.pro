@@ -27,7 +27,7 @@ Jingle around the cl[A7]ock
 M[F]ix and a-mingle in the [Fm]jingle beat
 [D7] That the [G]jingle bell
 [D7] That the [G]jingle bell
-[D7] That the [G7]jingle bell [C]
+[D7] That the [G7]jingle bell [C] rock
 
 
 

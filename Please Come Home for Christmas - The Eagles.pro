@@ -43,7 +43,7 @@ And [B7]I'll be [A]happy,  [F#m] hap[B7]py [E7] once a[A]gain [E7#5]
 
 Oh. There'll be no more [A]sorrow,  [C#7]no grief and [F#m]pain [A] [D]
 And [B7]I'll be [A]happy,  [F#m] 
-[B7]Christma [E7] once a[A]gain [D] [A]
+[B7]Christmas [E7] once a[A]gain [D] [A]
 
 {c:outro:}
 Notes: A E F# C#
