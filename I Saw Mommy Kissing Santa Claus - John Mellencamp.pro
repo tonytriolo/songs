@@ -1,8 +1,8 @@
 {title: I Saw Mommy Kissing Santa Claus}
 {subtitle: John Mellencamp}
 
-{c:Intro}
-E Chord with Riff1
+{c:Intro over riff}
+[E]
 
 [E]I saw momma kiss Ol', [Abm]Santa Claus
 [A]Underneath the mistletoe last [E]night
