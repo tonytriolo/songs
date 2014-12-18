@@ -1,5 +1,5 @@
-Sweet Home Alabama
-Lynyrd Skynyrd
+{t:Sweet Home Alabama}
+{st:Lynyrd Skynyrd}
 
 {sot}
 e-------------------------3
