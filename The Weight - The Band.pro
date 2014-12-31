@@ -28,7 +28,7 @@ Who sent me here with her regards for everyone.
 
 chorus
 
-[G]Take a load off, F[C]anny.
-[G]Take a load for fr[C]ee.
-[G]Take a load off, F[C]anny.
-[G]  [C]   And  you put the load right on m[G]e.  [C#m/G#]    [Em]     [G]    [D]    [C]
+[G]Take a [D/F#]load off, F[C]anny.
+[G]Take a [D/F#]load for fr[C]ee.
+[G]Take a [D/F#]load off, F[C]anny.
+[C]   And  you put the load right on m[G]e.  [D/F#]    [Em]  [D]    [C]

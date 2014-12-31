@@ -1,5 +1,6 @@
 {title: The Christmas Song}
 {subtitle: Mel Torme}
+{zoom-iphone: 1.000000}
 
 {define: Cmaj7 1 x 3 5 4 5 3}
 {define: C#maj7 1 x 4 6 5 6 4}
