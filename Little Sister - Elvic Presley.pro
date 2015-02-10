@@ -1,5 +1,5 @@
 {title: Little Sister}
-{subtitle: Elvic Presley}
+{subtitle: Elvis Presley}
 
 #Intro - E
 #(chorus)

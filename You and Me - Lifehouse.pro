@@ -1,8 +1,6 @@
 {title: You and Me}
 {subtitle: Lifehouse}
 
-{c:need to check}
-
 [G] [Cadd9] [Dsus4/F#] [G/B] [Em7] [Dsus4] [Cadd9]
 
 [G]What day is [Cadd9]it

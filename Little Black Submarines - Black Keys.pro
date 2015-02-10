@@ -18,7 +18,7 @@ The [D]voices calling [A]me
 I [Am]should've seen it [G]glow
 But [D]everybody [A]knows
 That a [C]broken [D]heart is [A]blind
-[A]That [B]a [C]broken [D]heart is [A]blind
+[A]That [C/B]a [C]broken [D]heart is [A]blind
 
 {c:verse}
 [Am]Pick you [G]up, let you down
@@ -35,7 +35,7 @@ The [D]voices calling [A]me
 I [Am]should've seen it [G]glow
 But [D]everybody [A]knows
 That a [C]broken [D]heart is [A]blind
-[A]That [B]a [C]broken [D]heart is [A]blind
+[A]That [C/B]a [C]broken [D]heart is [A]blind
 
 {c:interlude 2x}
 [Am] [G] [D] [A] [Am] [G] [A]
@@ -55,8 +55,8 @@ The [D]voices calling [A]me
 I [Am]should've seen it [G]glow
 But [D]everybody [A]knows
 That a [C]broken [D]heart is [A]blind
-[A]That [B]a [C]broken [D]heart is [A]blind
-[A]That [B]a [C]broken [D]heart is [A]blind
+[A]That [C/B]a [C]broken [D]heart is [A]blind
+[A]That [C/B]a [C]broken [D]heart is [A]blind
 
 {c:interlude 2x}
 [Am] [G] [D] [A] [Am] [G] [A]
@@ -68,8 +68,8 @@ The [D]voices calling [A]me
 I [Am]should've seen it [G]glow
 But [D]everybody [A]knows
 That a [C]broken [D]heart is [A]blind
-[A]That [B]a [C]broken [D]heart is [A]blind
-[A]That [B]a [C]broken [D]heart is [A]blind
+[A]That [C/B]a [C]broken [D]heart is [A]blind
+[A]That [C/B]a [C]broken [D]heart is [A]blind
 
 {c:outro}
 [Am] [G] [D] [A] [Am] [G] [A]

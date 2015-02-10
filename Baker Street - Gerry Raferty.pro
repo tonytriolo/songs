@@ -7,8 +7,8 @@
 {c:2X}  
 [D] [F] [D] [F] [C] [Asus] [G] 
 
-[A]Winding your way down on[D] Baker Street
-[A]Light in your head, and [D] dead on your feet
+[A]Winding your way down on Baker Street
+[A]Light in your head, and dead on your feet
 Well a[Em]nother crazy day, you [G]drink the night away
 And for[D]get about ever[G]ythin[D]g
 [A]This city desert makes you feel so cold, its got
@@ -22,7 +22,7 @@ But [C]you're tryin, [G]you're tryin [D]now
 [Dm7]Just one more year and then you'd [Am7]be happy
 But [C]you're cryin', [G]you're cryin [A]now   [F] (SAX)
 
-
+[D] [F] [D] [F] [C] [Asus] [G] 
 
 [A]Way down the street there's a light in his place
 [A]You open the door, he's got that look on his face
@@ -37,4 +37,6 @@ And for[D]get about everything
 Cause [C]he's rollin, [G]He's the rolling [D]stone
 [Dm7]And when you wake up it's a [Am7]new morning
 [Dm7]The sun is shining it's a [Am7]new morning
-And [C]you're going, [G]you're going [A]home.   [F]  (SAX) > (INTRO) > (SAX)
+And [C]you're going, [G]you're going [A]home.   [F]  
+[D] [F] [D] [F] [C] [Asus] [G] 
+(SAX) > (INTRO) > (SAX)
