@@ -38,7 +38,7 @@ And o[D7]oh that girl looked n[G]ice.[D7]
 Verse:5
 Well he c[G]ast his eyes upon her, And the tr[A7]ouble soon began,
 And L[B7]eroy Brown learned a le[C]sson 'Bout messin',
-with the w[D7]ife of a jealous m[G]an.[D7]
+with the w[D7]ife of a [C]jealous m[G]an.[D7]
 
 {soc}
 And it's b[G]ad, bad Leroy Brown,
@@ -50,7 +50,7 @@ And m[D7]eaner than a [C]junkyard d[G]og.[D7]
 Well the t[G]wo men, they took to fightin',
 And when they p[A7]ulled them from the floor,
 L[B7]eroy looked like a ji[C]gsaw puzzle,
-With a co[D7]uple of pieces go[G]ne.
+With a co[D7]uple of [C]pieces go[G]ne.[D7]
 
 {soc}
 And it's b[G]ad, bad Leroy Brown,

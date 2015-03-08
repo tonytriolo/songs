@@ -24,7 +24,7 @@ she is [Am]headed for the [C]cheatin side of [G]town [G]
 
 {soc}
 You can't [G]hide[C/G]   your lyin e[G]yes,[C/G]  [G]  
-and [D/F#]your [Em]smile[Bm]     is a thin dis[Am]guise [D7]
+and your [Em]smile[Bm]     is a thin dis[Am]guise [D7]
 I thought by [G]now   you'd realiz[C]e [A7]
 there [Am]ain't no way to [D]hide your lyin [G]eyes
 {eoc}
@@ -46,7 +46,7 @@ she [Am]pulls away and [C]leaves him with a sm[G]ile [G]
 
 {soc}
 You can't [G]hide[C/G]    your lyin e[G]yes,[C/G]  [G]  
-and yo[D/F#]ur [Em]smile[Bm]    is a thin dis[Am]guise [D7]
+and your [Em]smile[Bm]    is a thin dis[Am]guise [D7]
 I thought by [G]now   you'd realize[C] [A7] 
 there [Am]ain't no way to [D]hide your lyin [G]eyes
 {eoc}
@@ -74,7 +74,7 @@ you're [Am]still the same old [C]girl you used to [G]be.[G]
 
 {soc}
 You can't [G]hide [C/G]  your lyin [G]eyes [C/B]  [G]  
-and [D/F#]your [Em]smile [Bm]    is a thin disgu[Am]ise. [D7]
+and your [Em]smile [Bm]    is a thin disgu[Am]ise. [D7]
 I thought by [G]now you'd realize [C] [A7] 
 there [Am]ain't no way to [D]hide your lyin [G]eyes.  [Gmaj7]
 There [Am]ain't no way to [D]hide your lyin' [G]eyes  [Gmaj7]

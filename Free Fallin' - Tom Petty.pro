@@ -1,7 +1,7 @@
 {title: Free Fallin'}
 {subtitle: Tom Petty}
 
-[CAPO]  [3]
+CAPO  3
 intro:
 [D], [G], [G], [D], [Asus4]
 [D], [G], [G], [D], [Asus4]

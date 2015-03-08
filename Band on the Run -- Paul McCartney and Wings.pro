@@ -44,7 +44,7 @@ And the first one said to the [Fmaj7/C]second one there,
 
 {soc}
 [G]band on the [C]run,
-[Em]band [C]on the [Am]run,
+[Em]band on the [Am]run,
 and the [Fmaj7/C]jailer man and [C]sailor sam,
 were [Fmaj7/C]searching ev'ryone,
 for the [C]band [Fmaj7/C]on the run, [C]  [Fmaj7/C]
@@ -61,7 +61,7 @@ for the rabbits on the [Em]run.
 
 {soc}
 [G]band on the [C]run,
-[Em]band [C]on the [Am]run,
+[Em]band on the [Am]run,
 and the [Fmaj7/C]jailer man and [C]sailor sam,
 were [Fmaj7/C]searching ev'ryone,
 for the [C]band [Fmaj7/C]on the run, [C]  [Fmaj7/C]
@@ -87,7 +87,7 @@ but we never will be [Em]found.
 
 {soc}
 [G]Band on the [C]run,
-[Em]band [C]on the [Am]run,
+[Em]band on the [Am]run,
 and the [Fmaj7/C]county judge, who [C]held a grudge,
 will [Fmaj7/C]search forever more,
 for the [C]band [Fmaj7/C]on the run, [C]  [Fmaj7/C]
