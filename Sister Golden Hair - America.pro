@@ -9,7 +9,7 @@ when a [F#m]woman sure can [A]be a friend of [E]mine[Esus4]  [E]
 
 Well, I [E]keep on thinkin' 'bout you, Sister [G#m]Golden Hair surprise, 
 and I [A]just can't live with[E]out you; can't you [G#m]see it in my eyes? 
-I been [A]one poor corre[E]spondent, and I been [C#m]too, too [G#m]hard to [A]find, 
+I been [A]one poor corre[F#m]spondent, and I been [C#m]too, too [G#m]hard to [A]find, 
 but it [F#m]doesn't mean you [A]ain't been on my [E]mind[Esus4] [E] 
 
 Will you [B]meet me in the middle, will you [A]meet me in the [E]air? 
@@ -20,7 +20,7 @@ Well I [F#m]tried to fake it, I [G#m]don't mind sayin', I [A]just can't make it
 
 Well, I [E]keep on thinkin' 'bout you, Sister [G#m]Golden Hair surprise, 
 and I [A]just can't live with[E]out you; can't you [G#m]see it in my eyes? 
-I been [A]one poor corre[E]spondent, and I been [C#m]too, too [G#m]hard to [A]find, 
+I been [A]one poor corre[F#m]spondent, and I been [C#m]too, too [G#m]hard to [A]find, 
 but it [F#m]doesn't mean you [A]ain't been on my [E]mind[Esus4] [E] 
 
 Will you [B]meet me in the middle, will you [A]meet me in the [E]air? 

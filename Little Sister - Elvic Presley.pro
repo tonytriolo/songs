@@ -23,7 +23,7 @@ and say its very nice and than you[E] run
 l[B]ittle sister dont you [C]do what your [B]big sister d[E]one
 
 [E]every time i see your sister
-well shes got somebody knew
+well shes got somebody new
 shes mean and shes evil like that little ol' boweevel
 guess ill try my luck with you
 

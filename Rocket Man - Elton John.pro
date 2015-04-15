@@ -6,7 +6,7 @@
 {c:Verse}
 [Em7]She packed my bags last night - pre-[A7]flight
 [Em7]Zero hour, nine A.[A7]M.
-[C]And I'm gonna be [C/B]hi[Am7]gh [Am7/G)as a kite by [D/F#]then
+[C]And I'm gonna be [C/B]hi[Am7]gh [Am7/G]as a kite by [D/F#]then
 [Em7]I miss the earth so much, I [A7]miss my wife
 [Em7]It's lonely out in [A7]space
 [C]On such a [C/B]time[Am7]less[Am7/G] flight as [D/F#]this [D/A] [Dsus2]

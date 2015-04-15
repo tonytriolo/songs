@@ -16,10 +16,10 @@ But [G]don't you [C]worry baby don't [D]worry  [C]
 
 {soc}
 'Cause I'm a [G]picker, I'm a [C]grinner
-I'm a [G]lover and I'm a [C]sinner
+I'm a [D]lover and I'm a [C]sinner
 [G]  I play my [C]music in the [D]sun  [C]
 I'm a [G]joker, I'm a [C]smoker
-I'm a [G]midnight [C]toker
+I'm a [D]midnight [C]toker
 [G]  I get my [C]loving on the [D]run   [C]
 {eoc}
 
@@ -30,10 +30,10 @@ I'm a [G]midnight [C]toker
 
 {soc}
 'Cause I'm a [G]picker, I'm a [C]grinner
-I'm a [G]lover and I'm a [C]sinner
+I'm a [D]lover and I'm a [C]sinner
 [G]  I play my [C]music in the [D]sun  [C]
 I'm a [G]joker, I'm a [C]smoker
-I'm a [G]midnight [C]toker
+I'm a [D]midnight [C]toker
 [G]  I get my [C]loving on the [D]run   [C]
 {eoc}
 
@@ -44,10 +44,10 @@ But [G]don't you [C]worry baby don't [D]worry  [C]
 
 {soc}
 'Cause I'm a [G]picker, I'm a [C]grinner
-I'm a [G]lover and I'm a [C]sinner
+I'm a [D]lover and I'm a [C]sinner
 [G]  I play my [C]music in the [D]sun  [C]
 I'm a [G]joker, I'm a [C]smoker
-I'm a [G]midnight [C]toker
+I'm a [D]midnight [C]toker
 [G]  I get my [C]loving on the [D]run   [C]
 {eoc}
 
