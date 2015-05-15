@@ -51,7 +51,7 @@ Yeah, we're gonna [A]fly to the sun.
 [E]Drink it up,
 Love her and she'll [A]bring you luck.
 [D]And if you find she [C]helps your mind, better [Bm]take her home,
-Don't you [E]live along,
+Don't you [E]live alone,
 Try to learn what [A]lover's own.
 
 {comment:Chorus:}
@@ -62,3 +62,7 @@ Try to learn what [A]lover's own.
      B[D]ring a tear of j[C]oy to my eyes,
      Te[Bm]lls me ev[E7]erythi[A]ng's gonna be all right.
 
+[D] [C] [Bm]
+[E] [A]
+[D] [C] [Bm]
+[E] [A] [D]

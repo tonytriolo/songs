@@ -45,10 +45,10 @@ you know that only the good die [C]young
 [F] oh woah baby [G]
 [C] i tell ya only the good die [F]young
 only the good [G]die youn[C]g
-[G] [C]
-[C] [F]
-[G] [C]
-{c:repeat}
+
+{c:break}
+[G] [F] [C]
+[D] [F] [G]
 
 You say your [G]mother told you all that I could [F]give you was a reput[C]ation
 Aww She never [D]cared for me
