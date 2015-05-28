@@ -14,7 +14,7 @@ Sun is gonna sh[A]ine above.
      Ev[G]erything will b[A]ring a chain of l[D]ove.[Bm]
      [G]In the morning w[A]hen I rise,
      B[D]ring a tear of j[C]oy to my eyes,
-     Te[Bm]lls me ev[E7]erythi[A]ng's gonna be all right.
+     Te[Bm]ll me ev[E7]erythi[A]ng's gonna be all right.
 
 [D]Seems as though a [C]month ago I was [Bm]Beta Chi,
 [E]Never got high,
@@ -29,7 +29,7 @@ This boy will never [A]be the same.
      Ev[G]erything will b[A]ring a chain of l[D]ove.[Bm]
      [G]In the morning w[A]hen I rise,
      B[D]ring a tear of j[C]oy to my eyes,
-     Te[Bm]lls me ev[E7]erythi[A]ng's gonna be all right.
+     Te[Bm]ll me ev[E7]erythi[A]ng's gonna be all right.
 
 [D]Pisces Virgo [C]rising is a [Bm]very good sign,
 [E]Strong and kind,
@@ -44,7 +44,7 @@ Yeah, we're gonna [A]fly to the sun.
      Ev[G]erything will b[A]ring a chain of l[D]ove.[Bm]
      [G]In the morning w[A]hen I rise,
      B[D]ring a tear of j[C]oy to my eyes,
-     Te[Bm]lls me ev[E7]erythi[A]ng's gonna be all right.
+     Te[Bm]ll me ev[E7]erythi[A]ng's gonna be all right.
 
 
 [D]Love the girl who [C]holds the world in a [Bm]paper cup,
@@ -52,7 +52,7 @@ Yeah, we're gonna [A]fly to the sun.
 Love her and she'll [A]bring you luck.
 [D]And if you find she [C]helps your mind, better [Bm]take her home,
 Don't you [E]live alone,
-Try to learn what [A]lover's own.
+Try to earn what [A]lover's own.
 
 {comment:Chorus:}
      E[G]ven though we a[A]in't got money,
@@ -60,7 +60,7 @@ Try to learn what [A]lover's own.
      Ev[G]erything will b[A]ring a chain of l[D]ove.[Bm]
      [G]In the morning w[A]hen I rise,
      B[D]ring a tear of j[C]oy to my eyes,
-     Te[Bm]lls me ev[E7]erythi[A]ng's gonna be all right.
+     Te[Bm]ll me ev[E7]erythi[A]ng's gonna be all right.
 
 [D] [C] [Bm]
 [E] [A]

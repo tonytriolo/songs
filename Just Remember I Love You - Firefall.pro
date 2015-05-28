@@ -63,3 +63,4 @@ placed down to form the full chord.
 
 
 {define: Fmaj7 0 x x 3 2 1 0}
+{define: G6 0 x x 5 4 3 x}
