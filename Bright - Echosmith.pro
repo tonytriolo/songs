@@ -1,8 +1,8 @@
 {title: Bright}
 {subtitle: Echosmith}
 
- 
-
+Original tuned down half step
+Capo 4 for my vocal range
 {c:Intro}
    [G]   [Cadd9]
 

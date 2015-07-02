@@ -1,5 +1,6 @@
 {title: 50 Ways to Say Goodbye}
 {subtitle: Train}
+{Capo:4}
 
 [Ebm]          [Abm]
 [C#]           [F#]
@@ -17,7 +18,7 @@ That's cool but if my friends ask where you are I'm gonna say
 [B]She went down in an airplane
 [F#]Fried getting suntan
 [C#]Fell in a cement [Ebm]mixer full of [C#]quicksand
-[B]Help me, help me[F#] I'm no good a[F]t goodbye[Bb]s
+[B]Help me, help me[F#] I'm no good a[Bb7sus4]t goodbye[Bb7]s
 [B]She met a shark underwater
 [F#]Fell and no one caught her
 [C#]I returned everything [Ebm]I ever bought [C#]her
@@ -40,7 +41,7 @@ That's cool but if my friends ask where you are I'm gonna say
 [B]She was caught in a mudslide
 [F#]Eaten by a lion
 [C#]Got run over by a [Ebm]crappy purple [C#]Scion
-[B]Help me, help me[F#] I'm no good a[F]t goodbye[Bb]s
+[B]Help me, help me[F#] I'm no good a[Bb7sus4]t goodbye[Bb7]s
 [B]She dried up in the desert
 [F#]drowned in a hot tub
 [C#]Danced to death at an [Ebm]east side [C#]nightclub
@@ -61,7 +62,7 @@ And ways to say you [Ebm]died
 [B]She went down in an airplane
 [F#]Fried getting suntan
 [C#]Fell in a cement [Ebm]mixer full of [C#]quicksand
-[B]Help me, help me[F#] I'm no good a[F]t goodbye[Bb]s
+[B]Help me, help me[F#] I'm no good a[Bb7sus4]t goodbye[Bb7]s
 [B]She met a shark underwater
 [F#]Fell and no one caught her
 [C#]I returned every[Ebm]thing I ever [C#]bought her
@@ -69,7 +70,7 @@ And ways to say you [Ebm]died
 [B]She was caught in a mudslide
 [F#]Eaten by a lion
 [C#]Got run over by a [Ebm]crappy purple [C#]Scion
-[B]Help me, help me[F#] I'm no good a[F]t goodbye[Bb]s
+[B]Help me, help me[F#] I'm no good a[Bb7sus4]t goodbye[Bb7]s
 [B]She dried up in the desert
 [F#]drowned in a hot tub
 [C#]Danced to death at an [Ebm]east side [C#]nightclub
