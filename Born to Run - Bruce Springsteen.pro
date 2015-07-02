@@ -16,7 +16,7 @@ At n[E]ight we ride through mansions of glory in s[A]uicide mach[B]ines
 Spr[A]ung from cages out on h[E/G#]ighway 9,  Chrome wh[F#m]eeled, fuel injected
 and st[E/G#]eppin' out over the lin[E]e [E9]Oh  B[A]aby this town rips the b[E/G#]ones from your back
 It's a d[F#m]eath trap, it's a s[E/G#]uicide rap  We gotta g[E]et out while we're y[C#m]oung
-`Cause tr[A]amps like us, b[B]aby we were born to r[E]un [E]   [A]   [B7sus-B]          [E]  [E]  [A]  [B7sus-B]
+`Cause tr[A]amps like us, b[B]aby we were born to r[E]un [E]   [A]   [B7sus] [B]          [E]  [E]  [A]  [B7sus] [B]
 Wendy l[E]et me in I wanna be your friend I want to g[A]uard your dreams and v[B]isions
 Just wr[E]ap your legs 'round these velvet rims
 and str[A]ap your hands across my [B]engines    Tog[A]ether we could b[E/G#]reak this trap

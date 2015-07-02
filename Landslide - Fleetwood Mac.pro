@@ -26,9 +26,20 @@ I[C] am getting old[G/B]er [Am7]too [G/B]
 {eoc}
 
 Sooo...
-[C]Take this l[G/B]ove and take it[Am7] down [G/B]
+{c: Solo over verse chords}
+
+{soc}
+Well [G]I've been [D/F#]afraid of [Em]changing
+Cause I [C]built my [G/B]life around [Am]you [D/F#]
+But [G]time makes you[D/F#] bolder
+[Em]Children get older
+I[C] am getting old[G/B]er [Am7]too [G/B]
+I[C] am getting old[G/B]er [Am7]too [G/B]
+{eoc}
+
+So [C]Take this l[G/B]ove and take it[Am7] down [G/B]
 [C]If you climb a m[G/B]ountain and you turn [Am7]around  [G/B]
-And if yo[C]u see my re[G/B]flection in the
+If yo[C]u see my re[G/B]flection in the
 [Am7]Snow covered [G/B]hills 
 then a[C] landslide will [G/B]bring you [Am7]down [G/B]
 
