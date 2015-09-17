@@ -23,7 +23,7 @@ And he l[B7]ike to wave his d[C]iamond rings,
 In front of [D7]every[C]body's [G]nose,[D7]
 He got a c[G]ustom Continental, He got an E[A7]ldorado too,
 He got a [B7]32 gun in his po[C]cket for fun,
-He got a r[D7]azor in his s[G]hoe.[D7]
+He got a r[D7]azor in [C]his s[G]hoe.[D7]
 
 {soc}
 And it's b[G]ad, bad Leroy Brown,
@@ -34,7 +34,7 @@ And m[D7]eaner than a [C]junkyard d[G]og.[D7]
 
 Well Fr[G]iday bout a week ago, L[A7]eroy shootin' dice,
 And at the e[B7]dge of the bar, Sat a g[C]irl named Doris,
-And o[D7]oh that girl looked n[G]ice.[D7]
+And o[D7]oh that [C]girl looked n[G]ice.[D7]
 Verse:5
 Well he c[G]ast his eyes upon her, And the tr[A7]ouble soon began,
 And L[B7]eroy Brown learned a le[C]sson 'Bout messin',
@@ -62,5 +62,5 @@ And m[D7]eaner than a [C]junkyard d[G]og.[D7]
 And it's b[G]ad, bad Leroy Brown,
 The b[A7]addest man in the whole damn town,
 B[B7]adder than old King K[C]ong,
-And m[D7]eaner than a [C]junkyard d[G]og.[D7]
+And m[D7]eaner than a [C]junkyard d[G]og
 {eoc}
