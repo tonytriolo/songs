@@ -1,7 +1,8 @@
 {title: Don't Stop Believing}
 {subtitle: Journey}
+{time: 4:49}
 
-Capo II
+Capo II (original key)
 
 {c:Intro}
 [D] [A] [Bm] [G] 

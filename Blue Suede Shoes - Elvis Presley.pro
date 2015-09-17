@@ -1,5 +1,6 @@
 {title: Blue Suede Shoes}
 {subtitle: Elvis Presley}
+{time: 4:49}
 
 Well it's a [A]one for the money, two for the show
 three to get ready, now go cat go

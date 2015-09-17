@@ -43,5 +43,6 @@ Instrumental break
 
 
 *D/E. Played on an acoustic guitar, this sounds more like the
-piano chord when the form is played from 2nd position and extended over 3 frets.  Notes:  E, A. F#, A, D, F#
+piano chord when the form is played from 2nd position and extended 
+over 3 frets.  Notes:  E, A. F#, A, D, F#
 

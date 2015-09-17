@@ -2,6 +2,10 @@
 {subtitle: Phil Collins}
 {c: Acoustic version by Smith & Myers}
 
+{define: C/Bb 0 x 1 0 0 3 3}
+{define: C 0 x 3 2 0 3 3}
+
+
 {c: Intro}
 [Dm]
 

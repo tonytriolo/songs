@@ -1,8 +1,8 @@
 {title: Tequila Sunrise}
 {subtitle: The Eagles}
 
-[G] [G6] [G] [G6] [G] [G6] [G] [G6] [G]
-[Am] [D7] [G] [G6] [G] [G6] [G]
+[G].[G6].[G].[G6].[G].[G6].[G].[G6].[G]
+[Am].[D7].[G].[G6].[G].[G6].[G]
 
 [G]It's another tequila sunrise 
 [D]Starin' slowly 'cross the [Am]sky,
@@ -31,7 +31,7 @@ And [Am]she's out runnin' '[D7]round
 [D7]this old world still looks the [Am]same
 [D7]Another [G]frame, mm...
 
-[G] [G] [G] [G] [C/G] [G]
+[G].[G].[G].[G].[C/G].[G]
 
 
 {define: G6 0 3 x 2 0 0 3}

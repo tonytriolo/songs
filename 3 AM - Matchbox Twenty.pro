@@ -41,7 +41,7 @@ Well I can't help but [D]be scared of it [Em]all some[D]times
 
 [D]Well she believes[Cadd9] that life is made up 
 of all that you're [G]used to [Cadd9] [G] [Cadd9]
-And the clock on the wall[Cadd9] has been stuck at three 
+[D]And the clock on the wall[Cadd9] has been stuck at three 
 for [G]days, and [Cadd9]days [G] [Cadd9]
 [D]She thinks that hap[Cadd9]piness is a mat 
 that sits on her doo[G]rway [Cadd9] yeah[G] [Cadd9]

@@ -12,8 +12,8 @@ and [G]hope that my [Em]dreams will come [C]true. [A7]
 And then [Em]while I큟 a[A7]way I큞l write [D]home every[Bm]day
 and I큞l [G]send all my [A]loving to [D]you.
 
-All my [Bm]loving [Bb+]I will send to [D]you.
-All my [Bm]loving, [Bb+]darling I큞l be [D]true.
+All my [Bm]loving I will send to [D]you.
+All my [Bm]loving, darling I큞l be [D]true.
 
 SOLO
 [|] [G] [|] [%] [|] [D] [|] [%] [|] [Em] [|] [A] [|] [D] [|] [D] [|]
@@ -24,8 +24,8 @@ And then [Em]while I큟 a[A7]way I큞l write [D]home every[Bm]day
 and I큞l [G]send all my [A]loving to [D]you.
 
 
-All my [Bm]loving [Bb+]I큞l will send to [D]you.
-All my [Bm]loving, [Bb+]darling I큞l be [D]true.
+All my [Bm]loving I큞l will send to [D]you.
+All my [Bm]loving, darling I큞l be [D]true.
 
 
 All my [Bm]loving

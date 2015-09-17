@@ -31,15 +31,15 @@ on cheap talk and wine
 [F]    Left us so little to give 
 [Em7]   That same old crowd 
 Was like a [Dm7]cold dark cloud 
-That we could [Em7]never rise above [F]
+That we could [Em7]never rise above [F] [G7]
 But [Cmaj7]here [C]in my heart 
 I [Fmaj7]give you the best of my [C]love [G]
 
 {soc}
 Whoa [C] sweet darlin' 
-you get the best of my [F]love, 
+[F]you get the best of my love, 
 Whoa [Cmaj7]sweet darlin', 
-you get the best of my love [F]
+[F]you get the best of my love 
 {eoc}
 
 {c:Bridge}
