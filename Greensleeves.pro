@@ -1,6 +1,7 @@
 # Greensleeves Sample Song for SongBook
 {t:Greensleeves}
 {st:Traditional}
+{key: Em}
 {sot}
 E|---|------|-0--10-|------|---
 B|---|-1--3-|-1-----|-3--0-|---
@@ -38,6 +39,6 @@ But my heart remains in captivity.
 Many songs like this are available on the Internet. 
 Just search for chordpro or tab song files.
 
-Refer to www.linkesoft.com/songbook/ios 
-or Settings - Help for the full user manual.
+Refer to www.linkesoft.com/songbook for
+full instructions and videos.
 {tag: Sample}
