@@ -26,6 +26,3 @@ for [F]I [G]can't [Am]help [F]falling in [C]love [G]with [C]you
 for [F]I [G]can't [Am]help [F]falling in [C]love [G]with [C]you
 for [F]I [G]can't [Am]help [F]falling in [C]love [G]with [C]you
 
-Set8
-
-http://sites.google.com/site/guitarmusicchordsandlyrics/
