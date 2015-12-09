@@ -3,7 +3,7 @@
 
 Capo II
 
-[C] [G] [Am] [C] [G]
+[C]// [G]// [Am]// [C]/ [G]/
 
 [C]Wise [Em]men [Am]say, only [F]fools [C]rush [G]in
 but [F]I [G]can't [Am]help [F]falling in [C]love [G]with [C]you

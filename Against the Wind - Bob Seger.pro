@@ -1,5 +1,6 @@
 {title: Against the Wind}
 {subtitle: Bob Seger}
+{time: 5:12}
 
 
 {c:INTRO & BRIDGE:}

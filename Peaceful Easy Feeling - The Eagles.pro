@@ -1,5 +1,6 @@
 {title: Peaceful Easy Feeling}
 {subtitle: The Eagles}
+{time: 2:36}
 
 {define: F#m11 0 2 4 4 2 0 0}
 

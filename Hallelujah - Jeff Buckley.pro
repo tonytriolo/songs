@@ -1,5 +1,6 @@
 {title: Hallelujah}
 {subtitle: Jeff Buckley}
+{define: B7/D# 0 x x 1 2 0 2}
 
 {c:Capo 5}
 

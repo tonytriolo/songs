@@ -1,7 +1,8 @@
 {title: Suspicious Minds}
 {subtitle: Elvis Presley}
+{time: 3:31}
 
-[G] [C] 2x
+[G] 2x
 
 [G]We're caught in a trap 
 [C]I can't walk out 
@@ -41,9 +42,8 @@ I've never [G]lied to you
 
 [G]Why can't you see, 
 [C]what you're doing to me? 
-[D]When you don't be[C]lieve a word I [G]say?  6x
+[D]When you don't be[C]lieve a word I [G]say?  
 
-
-Set8
-
-http://sites.google.com/site/guitarmusicchordsandlyrics/
+[G]We're caught in a trap 
+[C]I can't walk out 
+[D]Because I [C]love you too much [G]baby 6x

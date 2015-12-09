@@ -1,20 +1,6 @@
 {title: Don't Be Cruel}
 {subtitle: Elvis Presley}
 
-
-Guitar Scotty Moore: Dropped D tuning
-
-Intro (Scotty Moore):
-{sot}
-e|----------------------||
-B|--------------------*-||
-G|----------------------||
-D|----------------------||
-A|-----------0-2-0----*-||
-D|--0----4--------------||
-{eot}
-
-
     You [D]know I can be found,
     [D]sitting home all alone,
     If [G]you can't come around,
@@ -28,25 +14,25 @@ D|--0----4--------------||
     I don't [G]want no other [A]love,
     [G]Baby it's just [A]you I'm thinking [D]of.
 
-    Don't stop thinking of me,
-    don't make me feel this way,
-    Come on over here and love me,
-    you know what I want you to say.
+    [D]Don't stop thinking of me,
+    [D]don't make me feel this way,
+    Come [G]on over here and love me,
+    [D]you know what I want you to say.
 
-    Don't be cruel to a heart that's true.
-    Why should we be apart?
-    I really love you baby, cross my heart.
+    Don't be [Em]cruel [A]to a heart that's [D]true.
+    Why [G]should we be [A]apart?
+    [G]I really love you [A]baby, cross my [D]heart.
 
-    Let's walk up to the preacher
-    and let us say I do,
-    Then you'll know you'll have me,
-    and I'll know I'll have you too,
+    [D]Let's walk up to the preacher
+    [D]and let us say I do,
+    [G]Then you'll know you'll have me,
+    and I'll [D]know I'll have you too,
 
-    Don't be cruel to a heart that's true.
-    I don't want no other love,
-    Baby it's just you I'm thinking of.
+    Don't be [Em]cruel [A]to a heart that's [D]true.
+    I don't [G]want no other [A]love,
+    [G]Baby it's just [A]you I'm thinking [D]of.
 
-    Don't be cruel to a heart that's true.
-    Don't be cruel to a heart that's true.
-    I don't want no other love,
-    Baby it's just you I'm thinking of.
+    Don't be [Em]cruel [A]to a heart that's [D]true.
+    Don't be [Em]cruel [A]to a heart that's [D]true.
+    I don't[Em] want no other [A]love,
+    [G]Baby it's just [A]you I'm thinking [D]of.[D7]
