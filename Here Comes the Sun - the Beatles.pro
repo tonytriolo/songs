@@ -49,6 +49,8 @@ and I say[D] it's [Dsus2]all [D]right
 [F]Sun, [C]sun, [G/B]sun, [G]here it [D]comes[A7]
 {c:repeat 5x}
 
+[A7] [A7sus4] [A7] [A] 
+
 {c:Verse 3}
 [D]Little [Dsus2]dar  -  [D]ling
 I feel that [G]ice is slowly me[A7]lting [A7sus4]

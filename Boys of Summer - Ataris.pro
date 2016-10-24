@@ -42,7 +42,7 @@ After the boys of [Fmaj7]summer have gone
 [Am]. [Fmaj7]. [G]. [Fmaj7].
 
 {c:Verse}
-[Am]Out on the road today, I saw a black flag sticker on a Cadillac
+[Am]Out on the road today, I saw a dead head sticker on a Cadillac
 [Fmaj7]A little voice Inside my head said, Don't look back. You can never look back
 [G]I thought I knew what love was What did I know? 
 [Fmaj7]Those days are gone forever, I should just let them go but

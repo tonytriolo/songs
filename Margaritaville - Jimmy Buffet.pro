@@ -1,5 +1,6 @@
 {t: Margaritaville}
 {st: Jimmy Buffet}
+{ipodid: }
 
 {c: Intro}
 [D] [G] [A] [D]
@@ -64,3 +65,5 @@ Yes and [G]Some people [A]claim that there's a [D]wo[A]man to [G]blame,
 and I [A]know, 
 it's my own damn [D]fault.
 {eoc}
+
+[D] [G] [A] [D]

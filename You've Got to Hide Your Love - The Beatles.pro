@@ -21,3 +21,22 @@
 [G]Hey,  you've got to [C]hide your love [Dsus4]away [D] [Dsus2]  [D]
 [G]Hey,  you've got to [C]hide your love [Dsus4]away [D] [Dsus2] [D]
 
+{c:Instrumental}
+[G] [D] [F] [G]
+[C] [F] [C]
+[G] [D] [F] [G]
+[C] [F] [C] [D] [D/C] [D/B] [D/A]
+
+{c:Chorus}
+[G]Hey,  you've got to [C]hide your love [Dsus4]away [D] [Dsus2]  [D]
+[G]Hey,  you've got to [C]hide your love [Dsus4]away [D] [Dsus2] [D]
+
+{c:VERSE}
+[G]How can [D]I [F]even [G]try [C]I can never [F]win. [C]
+[G]Hearing [D]them,  [F]seeing [G]them [C]in the state I'm [F]in. [C] [D]
+[G]How could [D]she [F]say to [G]me "[C]Love will find a [F]way"[C] ?
+[G]Gather '[D]round, [F]all you [G]clowns, [C]Let me hear you [F]sa[C]y [D] [D/C] [D/B][D/A]
+
+{c:Chorus}
+[G]Hey,  you've got to [C]hide your love [Dsus4]away [D] [Dsus2]  [D]
+[G]Hey,  you've got to [C]hide your love [Dsus4]away [D] [Dsus2] [D]

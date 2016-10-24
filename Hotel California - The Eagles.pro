@@ -33,7 +33,7 @@ any [Dm]time of year, you can [E]find it here
 
 
 {c:Verse}
-[Am]Her mind is tiffany-twisted, [E]she got the Mercedes bends
+[Am]Her mind is tiffany-twisted, [E]she got the Mercedes benz
 [G]She got a lot of pretty, pretty boys, that [D]she calls friends
 [F]How they dance in the courtyard, [C]sweet summer sweat.
 [Dm]Some dance to remember, [E]some dance to forget

@@ -11,7 +11,7 @@ A|-------------------------------|
 E|-------------------------------|
 {eot}
 
-[|] [D] [|] [D] [|] [D] [|] [D] [F] [D] [|]
+[|] [Dsus2] [|] [Dsus2] [|] [Dsus2] [|] [Dsus2] [F] [D] [|]
 
 [D]It's all the same , [C]only the names wil[G]l change
 [C]And ev'ry [G]day , it seems we're wast[F]ing a[D]way
